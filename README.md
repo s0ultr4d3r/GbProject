@@ -4,6 +4,6 @@
 
 Сделано на MyTeam (c парсером структур), потому что почты (юзернеймы) совпадают с почтами в Jira, но апи то же что у телеграмм, так что можно прикрутить таблицу соответствия юзернеймов рабочим почтам
 
-![Чат с уведомлениями](/repository/assets/1.png?raw=true "chat")
+![Чат с уведомлениями](https://github.com/s0ultr4d3r/GbProject/blob/main/assets/1.png "chat")
 
-![Личка с поиском](/repository/assets/2.png?raw=true "Lich")
+![Личка с поиском](https://github.com/s0ultr4d3r/GbProject/blob/main/assets/2.png "Lich")
